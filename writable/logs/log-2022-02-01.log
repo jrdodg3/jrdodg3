@@ -213,3 +213,134 @@ CRITICAL - 2022-02-01 04:31:33 --> matchs is not a valid rule.
 #7 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/public/index.php(37): CodeIgniter\CodeIgniter->run()
 #8 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/Commands/Server/rewrite.php(43): require_once('/Applications/X...')
 #9 {main}
+CRITICAL - 2022-02-01 05:54:39 --> matchs is not a valid rule.
+#0 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/Validation/Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('matchs')
+#1 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/Validation/Validation.php(157): CodeIgniter\Validation\Validation->processRules('password_confir...', 'password_confir...', NULL, Array, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/app/Controllers/Users.php(37): CodeIgniter\Controller->validate(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/CodeIgniter.php(825): App\Controllers\Users->register()
+#5 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/Commands/Server/rewrite.php(43): require_once('/Applications/X...')
+#9 {main}
+CRITICAL - 2022-02-01 06:02:39 --> matchs is not a valid rule.
+#0 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/Validation/Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('matchs')
+#1 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/Validation/Validation.php(157): CodeIgniter\Validation\Validation->processRules('password_confir...', 'password_confir...', NULL, Array, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/app/Controllers/Users.php(37): CodeIgniter\Controller->validate(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/CodeIgniter.php(825): App\Controllers\Users->register()
+#5 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/Commands/Server/rewrite.php(43): require_once('/Applications/X...')
+#9 {main}
+CRITICAL - 2022-02-01 06:04:36 --> matchs is not a valid rule.
+#0 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/Validation/Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('matchs')
+#1 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/Validation/Validation.php(157): CodeIgniter\Validation\Validation->processRules('password_confir...', 'password_confir...', NULL, Array, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/app/Controllers/Users.php(37): CodeIgniter\Controller->validate(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/CodeIgniter.php(825): App\Controllers\Users->register()
+#5 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/Commands/Server/rewrite.php(43): require_once('/Applications/X...')
+#9 {main}
+CRITICAL - 2022-02-01 06:06:11 --> matchs is not a valid rule.
+#0 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/Validation/Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('matchs')
+#1 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/Validation/Validation.php(157): CodeIgniter\Validation\Validation->processRules('password_confir...', 'password_confir...', NULL, Array, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/app/Controllers/Users.php(38): CodeIgniter\Controller->validate(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/CodeIgniter.php(825): App\Controllers\Users->register()
+#5 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/Commands/Server/rewrite.php(43): require_once('/Applications/X...')
+#9 {main}
+CRITICAL - 2022-02-01 06:06:15 --> matchs is not a valid rule.
+#0 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/Validation/Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('matchs')
+#1 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/Validation/Validation.php(157): CodeIgniter\Validation\Validation->processRules('password_confir...', 'password_confir...', NULL, Array, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/app/Controllers/Users.php(38): CodeIgniter\Controller->validate(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/CodeIgniter.php(825): App\Controllers\Users->register()
+#5 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/Commands/Server/rewrite.php(43): require_once('/Applications/X...')
+#9 {main}
+CRITICAL - 2022-02-01 06:07:13 --> matchs is not a valid rule.
+#0 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/Validation/Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('matchs')
+#1 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/Validation/Validation.php(157): CodeIgniter\Validation\Validation->processRules('password_confir...', 'password_confir...', NULL, Array, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/app/Controllers/Users.php(38): CodeIgniter\Controller->validate(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/CodeIgniter.php(825): App\Controllers\Users->register()
+#5 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/Commands/Server/rewrite.php(43): require_once('/Applications/X...')
+#9 {main}
+CRITICAL - 2022-02-01 06:07:16 --> matchs is not a valid rule.
+#0 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/Validation/Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('matchs')
+#1 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/Validation/Validation.php(157): CodeIgniter\Validation\Validation->processRules('password_confir...', 'password_confir...', NULL, Array, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/app/Controllers/Users.php(38): CodeIgniter\Controller->validate(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/CodeIgniter.php(825): App\Controllers\Users->register()
+#5 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/Commands/Server/rewrite.php(43): require_once('/Applications/X...')
+#9 {main}
+CRITICAL - 2022-02-01 06:07:31 --> print_r() expects at least 1 argument, 0 given
+#0 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/app/Controllers/Users.php(44): print_r()
+#1 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/CodeIgniter.php(825): App\Controllers\Users->register()
+#2 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/Commands/Server/rewrite.php(43): require_once('/Applications/X...')
+#6 {main}
+CRITICAL - 2022-02-01 06:08:08 --> print_r() expects at least 1 argument, 0 given
+#0 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/app/Controllers/Users.php(44): print_r()
+#1 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/CodeIgniter.php(825): App\Controllers\Users->register()
+#2 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/Commands/Server/rewrite.php(43): require_once('/Applications/X...')
+#6 {main}
+CRITICAL - 2022-02-01 06:08:52 --> matchs is not a valid rule.
+#0 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/Validation/Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('matchs')
+#1 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/Validation/Validation.php(157): CodeIgniter\Validation\Validation->processRules('password_confir...', 'password_confir...', NULL, Array, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/app/Controllers/Users.php(38): CodeIgniter\Controller->validate(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/CodeIgniter.php(825): App\Controllers\Users->register()
+#5 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/Commands/Server/rewrite.php(43): require_once('/Applications/X...')
+#9 {main}
+CRITICAL - 2022-02-01 06:31:40 --> syntax error, unexpected token "protected"
+#0 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/Applications/X...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#4 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#5 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/Commands/Server/rewrite.php(43): require_once('/Applications/X...')
+#8 {main}
+ERROR - 2022-02-01 06:40:08 --> Table '5mb_db.5mb_db' doesn't exist
+CRITICAL - 2022-02-01 06:40:08 --> Table '5mb_db.5mb_db' doesn't exist
+#0 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/Database/MySQLi/Connection.php(292): mysqli->query('SELECT 1\nFROM `...', 0)
+#1 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/Database/BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/Database/BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/Database/BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/Validation/Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/Validation/Validation.php(292): CodeIgniter\Validation\Rules->is_unique('email@gmail.com', 'tbl_Users', Array, NULL)
+#6 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/Validation/Validation.php(157): CodeIgniter\Validation\Validation->processRules('email', 'email', 'email@gmail.com', Array, Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/Controller.php(160): CodeIgniter\Validation\Validation->run()
+#8 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/app/Controllers/Users.php(38): CodeIgniter\Controller->validate(Array)
+#9 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/CodeIgniter.php(825): App\Controllers\Users->register()
+#10 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#11 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 /Applications/XAMPP/xamppfiles/htdocs/AdvanceWebSolutions-main/system/Commands/Server/rewrite.php(43): require_once('/Applications/X...')
+#14 {main}

@@ -36,8 +36,8 @@
 
                 <div class="col-12 col-sm-6">
                     <div class="form-group">
-                        <label for="password">Confirm Password</label>
-                        <input type="password" class="form-control" name="password" id="password" value="">
+                        <label for="password_confirm">Confirm Password</label>
+                        <input type="password" class="form-control" name="password_confirm" id="password_confirm" value="">
                     </div>
                 </div>
 

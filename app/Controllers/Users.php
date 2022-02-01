@@ -21,8 +21,9 @@ class Users extends BaseController
     }
 
     public function register(){
+
         $data = [];
-        helper(['form']);
+        helper(['form','form_validation']);
 
         if ($this->request->getMethod() == 'post') {
             //Validation Goes Here
@@ -31,17 +32,15 @@ class Users extends BaseController
                 'lastname' => 'required|min_length[3]|max_length[20]',
                 'email' => 'required|min_length[6]|max_length[50]|valid_email',
                 'password' =>  'required|min_length[8]|max_length[255]',
-                'password_confirm' =>  'matchs[password]',
+                'password_confirm' =>  'matches[password]',
             ];
 
             if (! $this->validate($rules)) {
                 $data['validation'] = $this->validator;
             } else {
-                
+
             }
         }
-    
-
 
         echo view('templates/header', $data);
         echo view('register');
